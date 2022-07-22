@@ -54,4 +54,5 @@
 
 ## 結果
 
-![結果](aaa)
+![買い物困難地域](https://user-images.githubusercontent.com/106292301/180394527-d49b1778-e3fb-4315-82af-1118d0f71510.png)
+
