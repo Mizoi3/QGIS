@@ -29,7 +29,7 @@ def main(path):
     df['lon'] = lon_list
     df.to_csv(path.replace('_res.csv', '_geoco.csv'))
 
-
+# Enable Geocoding API from Google Maps Platform to get Endpoint and YOUR_KEY
 def geocoding(address):
     url = f'https://xxxxxxxxx?address={address}&key=[YOUR_KEY]'
     res = requests.get(url).json()
